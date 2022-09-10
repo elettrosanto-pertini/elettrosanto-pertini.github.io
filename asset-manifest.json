@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b911c6f.css",
+    "main.js": "/static/js/main.e736a622.js",
+    "static/js/787.aeca62f9.chunk.js": "/static/js/787.aeca62f9.chunk.js",
+    "static/media/Splitta_screen.png": "/static/media/Splitta_screen.b455b223374b87b02148.png",
+    "static/media/pfp_provvisoria.jpeg": "/static/media/pfp_provvisoria.3c1776c625eda3587b2e.jpeg",
+    "static/media/React_logo-removebg-preview.png": "/static/media/React_logo-removebg-preview.c278b8cdbf49f2902518.png",
+    "static/media/PHP_logo-removebg-preview.png": "/static/media/PHP_logo-removebg-preview.8300ceacaa11510ea9b1.png",
+    "static/media/Vanilla_js_screen.png": "/static/media/Vanilla_js_screen.47bc5b92cfc19ef3c5be.png",
+    "static/media/HTML_logo-removebg-preview.png": "/static/media/HTML_logo-removebg-preview.e6df507b46030c7fc2bf.png",
+    "static/media/CSS_logo-removebg-preview.png": "/static/media/CSS_logo-removebg-preview.10b6faebb12a80c90d13.png",
+    "static/media/Github_logo-removebg-preview.png": "/static/media/Github_logo-removebg-preview.cbdf2e2646dd79f000bb.png",
+    "static/media/MySQL_logo-removebg-preview.png": "/static/media/MySQL_logo-removebg-preview.518584d3776761bb85a9.png",
+    "static/media/Git_logo-removebg-preview.png": "/static/media/Git_logo-removebg-preview.41f85e750848e8485551.png",
+    "static/media/PWGenerator_screen.png": "/static/media/PWGenerator_screen.ec528643ab1a391afc16.png",
+    "static/media/Logo_personale.png": "/static/media/Logo_personale.a5154de866119d1b098c.png",
+    "static/media/JS_logo.png": "/static/media/JS_logo.2316fadb793506b0abfd.png",
+    "index.html": "/index.html",
+    "main.2b911c6f.css.map": "/static/css/main.2b911c6f.css.map",
+    "main.e736a622.js.map": "/static/js/main.e736a622.js.map",
+    "787.aeca62f9.chunk.js.map": "/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b911c6f.css",
+    "static/js/main.e736a622.js"
+  ]
+}
